@@ -1,0 +1,9 @@
+Copyright (c) 2026 onion-evan
+
+All Rights Reserved.
+
+The textures, models, animations, artwork, and other original assets
+contained in this project are the property of onion-evan.
+
+You may download, use, and redistribute these assets as part of the
+intended Minecraft resource pack.
